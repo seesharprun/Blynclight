@@ -1,4 +1,4 @@
-# Blynclight
+ # Blynclight
 Windows Universal portable library for the latest Blynclight device.
 
 ## Warning
@@ -39,5 +39,5 @@ To get started, do the following three things:
   manager.BlyncLight.StatusColor = Colors.Blue;
   ```
 
-##NuGet Package
+## NuGet Package
 [https://www.nuget.org/packages/Blynclight](https://www.nuget.org/packages/Blynclight)
